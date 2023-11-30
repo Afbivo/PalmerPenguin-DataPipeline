@@ -12,6 +12,7 @@ This data analysis pipeline involves cleaning, filtering and transforming the ra
 
 * README.md (this file)
 * Question2PenguinProject.Rmd (the Rmarkdown document)
+* Question2PenguinProject.pdf (the Rmarkdown as a knitted PDF)
 * penguins_raw.csv (the raw palmerpenguins data)
 * penguins_clean.csv (the cleaned palmerpenguins data)
 * LICENCE (the MIT licence is used)
