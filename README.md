@@ -10,17 +10,20 @@ This data analysis pipeline involves cleaning, filtering and transforming the ra
 
 ### Files in this repository
 
-* README.md (this file)
+* Data folder including:
+  - penguins_raw.csv (the raw palmerpenguins data)
+  - penguins_clean.csv (the cleaned palmerpenguins data)
+* Figures folder including:
+  - mass_sex_histogram.svg (saved exploratory histogram for distribution of body mass for sexes)
+  - mass_species_histogram.svg (saved exploratory histogram for distribution of body mass for species)
+  - interaction_plot.svg (saved interaction plot)
+* Functions folder including:
+  - cleaning.R (saved functions to clean the raw data)
+  - plotting.R (saved functions to make the graphs)
+* LICENCE (the MIT licence is used)
 * Question2PenguinProject.Rmd (the Rmarkdown document)
 * Question2PenguinProject.pdf (the Rmarkdown as a knitted PDF)
-* penguins_raw.csv (the raw palmerpenguins data)
-* penguins_clean.csv (the cleaned palmerpenguins data)
-* LICENCE (the MIT licence is used)
-* cleaning.R (saved functions to clean the raw data)
-* plotting.R (saved functions to make the graphs)
-* mass_sex_histogram.svg (saved exploratory histogram for distribution of body mass for sexes)
-* mass_species_histogram.svg (saved exploratory histogram for distribution of body mass for species)
-* interaction_plot.svg (saved interaction plot)
+* README.md (this file)
 
 ### What you need
 
@@ -60,6 +63,10 @@ Lydia France ( author of cleaning.R)
 * Cairo, Alberto. “Graphics Lies, Misleading Visuals.” New Challenges for Data Design, by Alberto Cairo, 28 Dec. 2014, pp. 103–116.
 
 * Chatfield, Chris. “Exploratory Data Analysis.” European Journal of Operational Research, vol. 23, no. 1, Jan. 1986, pp. 5–13, https://doi.org/10.1016/0377-2217(86)90209-2.
+
+* Kwak, Sang Gyu, and Jong Hae Kim. “Central Limit Theorem: The Cornerstone of Modern Statistics.” Korean Journal of Anesthesiology, vol. 70, no. 2, 21 Feb. 2017, pp. 144–156, www.ncbi.nlm.nih.gov/pmc/articles/PMC5370305/, https://doi.org/10.4097/kjae.2017.70.2.144.
+
+* Ramachandran, Kandethody M., and Chris P. Tsokos. “Chapter 14 - Some Issues in Statistical Applications: An Overview.” ScienceDirect, Academic Press, 1 Jan. 2015, www.sciencedirect.com/science/article/pii/B978012417113800014X. Accessed 1 Dec. 2023.
 
 * Tuncel, Altug, and Ali Atan. “How to Clearly Articulate Results and Construct Tables and Figures in a Scientific Paper?” Türk Üroloji Dergisi/Turkish Journal of Urology, vol. 39, no. 1, 15 Oct. 2014, pp. 16–19, www.ncbi.nlm.nih.gov/pmc/articles/PMC4548571/, https://doi.org/10.5152/tud.2013.048.
 
