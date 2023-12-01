@@ -78,6 +78,6 @@ Lydia France ( author of cleaning.R)
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for more details
+This project is licensed under the MIT License - see the LICENSE file for more details.
 
 
