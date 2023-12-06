@@ -21,8 +21,8 @@ This data analysis pipeline involves cleaning, filtering and transforming the ra
   - cleaning.R (saved functions to clean the raw data)
   - plotting.R (saved functions to make the graphs)
 * LICENCE (the MIT licence is used)
-* PalmerPenguinsAnalysis.Rmd (the Rmarkdown document)
-* PalmerPenguinsAnalysis.pdf (the Rmarkdown as a knitted PDF)
+* Palmer_Penguins_Analysis.Rmd (the Rmarkdown document)
+* Palmer_Penguins_Analysis.pdf (the Rmarkdown as a knitted PDF)
 * README.md (this file)
 
 ### What you need
