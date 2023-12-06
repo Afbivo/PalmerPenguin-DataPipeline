@@ -48,9 +48,13 @@ This data analysis pipeline involves cleaning, filtering and transforming the ra
 7. Creating a results figure (interaction plot)
 9. Saving the results figure
 
+## Author
+
+Anonymous
+
 ## Acknowledgements
 
-Lydia France ( author of cleaning.R) 
+Lydia France 
 
 ## References
 
