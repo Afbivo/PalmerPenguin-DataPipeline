@@ -60,6 +60,8 @@ Lydia France ( author of cleaning.R)
 
 * Baker, Monya. “1,500 Scientists Lift the Lid on Reproducibility.” Nature, vol. 533, no. 7604, May 2016, pp. 452–454, www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970, https://doi.org/10.1038/533452a.
 
+* Boswell, Dustin, and Trevor Foucher. The Art of Readable Code: Simple and Practical Techniques for Writing Better Code. Google Books, “O’Reilly Media, Inc.,” 3 Nov. 2011, books.google.co.uk/books?hl=en&lr=&id=emiCAgAAQBAJ&oi=fnd&pg=PR3&dq=writing+code+for+others&ots=tJnJvxHatM&sig=w-pCBJSlT-InA3iLpgwaiybYvws&redir_esc=y#v=onepage&q= writing%20code%20for%20others&f=false. Accessed 5 Dec. 2023.
+
 * Cairo, Alberto. “Graphics Lies, Misleading Visuals.” New Challenges for Data Design, by Alberto Cairo, 28 Dec. 2014, pp. 103–116.
 
 * Chatfield, Chris. “Exploratory Data Analysis.” European Journal of Operational Research, vol. 23, no. 1, Jan. 1986, pp. 5–13, https://doi.org/10.1016/0377-2217(86)90209-2.
